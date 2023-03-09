@@ -1,1 +1,1 @@
-A classifier which utilizes ECG data in order to build various classifiers and use these models to estimate a subject's pain level based on its ECG features.
+Various classifiers which create models for pain classification based on ECG extracted features.
